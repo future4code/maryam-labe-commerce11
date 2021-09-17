@@ -12,7 +12,6 @@ const ContainerFiltro = styled.div `
     }
 `
 
-
 class Filtro extends React.Component {
     
     state = {
